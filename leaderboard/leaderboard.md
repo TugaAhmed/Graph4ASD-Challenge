@@ -9,3 +9,4 @@
 | 6 | Tasneem Selim | `GCN` | human | 0.435957 | 2026-03-13 08:18:42 UTC |
 | 7 | Ignatius B | `GraphSAGE` | human | 0.421719 | 2026-03-09 16:34:02 UTC |
 | 8 | hadil | `GIN` | human+llm | 0.417978 | 2026-03-20 15:03:40 UTC |
+| 9 | samuel | `GCN` | human | 0.389111 | 2026-04-03 13:00:50 UTC |
